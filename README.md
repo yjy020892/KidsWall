@@ -5,6 +5,14 @@
 개인 외주로 키즈카페 벽면형 컨텐츠
 키즈카페 설치를 위한 카메라 센서(타 업체 제공)와 연동
 
+# 개발관련
+### 인원
+개발1(본인), 카메라 센서 SDK 제공 업체1
+### 내용
+혼자 개발, 기획, 연출 등 모두 구현, 아트는 AssetStore 사용
+### 기술
+카메라 센서 SDK 이용
+
 ### 실행방법
 0. https://drive.google.com/file/d/1WdenZakMxiy0Ier0FNLNYN2S9QL1RT_e/view?usp=drive_link 에서 용량 큰 나머지 파일 다운로드
 1. 01.Scene 폴더안에 아무 프로젝트 시작
